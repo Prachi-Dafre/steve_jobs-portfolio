@@ -1,0 +1,40 @@
+a{
+    text-transform:capitalize;
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: #CE5A67;
+}
+#two{
+    text-transform: uppercase;
+    color: #CE5A67;
+}
+#one{
+    color:brown;
+    text-decoration: none;
+    font-size: larger;
+}
+#three{
+    text-decoration: dashed;
+    text-align: center;
+}
+body{
+    background-image: url("./steve_jobs.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #CE5A67;
+
+}
+#three{
+    text-transform: capitalize;
+}
+h3{
+list-style-type: disc;
+}
+#four{
+    font-size: larger;
+}
+#five{
+    list-style-type: square;
+}
